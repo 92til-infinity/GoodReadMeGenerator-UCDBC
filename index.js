@@ -69,7 +69,7 @@ function promptUser() {
         {
             type: "input",
             name: "test",
-            message: "To run tests, run which following command?:",
+            message: "To run tests, run 'npm test'"
         },
 
         // ______________

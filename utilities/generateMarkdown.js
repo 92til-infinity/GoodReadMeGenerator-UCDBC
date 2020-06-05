@@ -6,9 +6,14 @@ function generateMarkdown(data) {
   
   SO THAT I can easily put together a good README for a new project
   __________________________________________________________________________
-  ![profile picture](./assets/profilepicture1.jpg)
-  ![GIT LOGO](./assets/git-sticker.jpg)
-  ![GIT LOGO](./assets/gif)
+  
+  *![profile picture](./assets/profilepicture1.jpg)
+
+  *![GIT LOGO](./assets/git - sticker.jpg)
+
+  *![Node Gif](./assets/gif.gif)
+
+  
   ###### Table of Contents
   *Project title
   *Description

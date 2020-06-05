@@ -19,27 +19,27 @@
   *Questions
   
     #Hi! My name is:
-    
+    w
     #Hi! My email is:
-    
+    1
     #Hi! My Github username is:
-    
+    d
     #project description:
-    
+    d
     #My role:
-    
+    f
     #My poject purpose
-    
+    d
     #Necessary dependencies
-    
+    s
     #Licenses used:
-    
+    s
     #Languages used:
-    
+    s
     #DEMO URL:
-    
+    s
     #Test Command:
-    
+    npm test
     
     
     
