@@ -83,7 +83,7 @@ promptUser()
         return writeFileAsync("README.md", read);
     })
     .then(() => {
-        console.log("Successfully wrote to README.md");
+        console.log("Successfull README!");
     })
     .catch((err) => {
         console.log(err);
