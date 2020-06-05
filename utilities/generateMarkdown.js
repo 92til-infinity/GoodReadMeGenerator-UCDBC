@@ -7,44 +7,44 @@ function generateMarkdown(data) {
   SO THAT I can easily put together a good README for a new project
   __________________________________________________________________________
   
-  *![profile picture](./assets/profilepicture1.jpg)
+  * ![profile picture](./assets/profilepicture1.jpg)
 
-  *![GIT LOGO](./assets/git - sticker.jpg)
+  * ![GIT LOGO](./assets/git - sticker.jpg)
 
-  *![Node Gif](./assets/gif.gif)
+  * ![Node Gif](./assets/gif.gif)
 
   
   ###### Table of Contents
-  *Project title
-  *Description
-  *Installation
-  *Usage
-  *License
-  *Contributions
-  *Tests
-  *Questions
+  * Project title
+  * Description
+  * Installation
+  * Usage
+  * License
+  * Contributions
+  * Tests
+  * Questions
   
-    #Hi! My name is:
+  # Hi! My name is:
     ${ data.name}
-    #Hi! My email is:
+  # Hi! My email is:
     ${ data.email}
-    #Hi! My Github username is:
+  # Hi! My Github username is:
     ${ data.username}
-    #project description:
+  # Project description:
     ${ data.description}
-    #My role:
+  # My role:
     ${ data.role}
-    #My poject purpose
+  # My poject purpose
     ${ data.usage}
-    #Necessary dependencies
+  # Necessary dependencies
     ${ data.installation}
-    #Licenses used:
+  # Licenses used:
     ${ data.license}
-    #Languages used:
+  # Languages used:
     ${ data.languages}
-    #DEMO URL:
+  # DEMO URL:
     ${ data.demo}
-    #Test Command:
+  # Test Command:
     ${ data.test}
     
     
