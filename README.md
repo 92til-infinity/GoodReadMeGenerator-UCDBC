@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   ![profile picture](./assets/profilepicture1.jpg)
   ![GIT LOGO](./assets/git-sticker.jpg)
@@ -38,3 +39,11 @@
     
     
     
+=======
+# GoodReadMeGenerator-UCDBC
+AS A developer
+
+I WANT a README generator
+
+SO THAT I can easily put together a good README for a new project
+>>>>>>> 6863539280fe9fc9f29f58e858b30df430a07654
