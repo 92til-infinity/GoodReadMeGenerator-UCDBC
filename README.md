@@ -5,9 +5,14 @@
   
   SO THAT I can easily put together a good README for a new project
   __________________________________________________________________________
-  ![profile picture](./assets/profilepicture1.jpg)
-  ![GIT LOGO](./assets/git-sticker.jpg)
-  ![GIT LOGO](./assets/gif)
+  
+  *![profile picture](./assets/profilepicture1.jpg)
+
+  *![GIT LOGO](./assets/git-sticker.jpg)
+
+  *![Node Gif](./assets/gif.gif)
+
+  
   ###### Table of Contents
   *Project title
   *Description
@@ -19,25 +24,25 @@
   *Questions
   
     #Hi! My name is:
-    w
+    J.Scott Glover
     #Hi! My email is:
-    1
+    yabbadabba.do@dino.net
     #Hi! My Github username is:
-    d
+    92til-
     #project description:
-    d
+    Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
     #My role:
-    f
+    main user
     #My poject purpose
-    d
+    make readme's easier to generate
     #Necessary dependencies
-    s
+    npm install assets & util & inquirer
     #Licenses used:
-    s
+    none
     #Languages used:
-    s
+    javascript & node
     #DEMO URL:
-    s
+    https://github.com/92til-infinity/GoodReadMeGenerator-UCDBC
     #Test Command:
     npm test
     
